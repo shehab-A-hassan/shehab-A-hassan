@@ -38,6 +38,9 @@
 ![windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)
 
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<a href="https://www.linkedin.com/in/shehabAli/"><img src="https://img.shields.io/badge/-shehab%20Ali-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 
 
