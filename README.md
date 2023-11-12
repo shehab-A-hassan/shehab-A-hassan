@@ -65,4 +65,4 @@
 
 ---
 
-Credits: [Shehab Ali](https://github.com/shehab-A-hassan/shehab-A-hassan/blob/main/README.md)
+Credits: [Shehab Ali](https://github.com/shehab-A-hassan)
