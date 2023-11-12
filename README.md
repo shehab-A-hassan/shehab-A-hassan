@@ -5,7 +5,7 @@
 </br>
 </br>
 <h2>Hey there! I'm  <b>shehab Ali</b>  
-<a href="https://www.linkedin.com/in/shehabali241/">img sr<c="httpsg.sh://imields.io/badge/-Mohamed%20Hashem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
 
 </h2>
 
