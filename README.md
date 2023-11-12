@@ -42,7 +42,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shehabali241/"><img src="https://img.shields.io/badge/-shehab%20Ali-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shehabali241/"><img src=https://media.licdn.com/dms/image/D4E03AQHibJ8NcQLclg/profile-displayphoto-shrink_800_800/0/1691793004154?e=1705536000&v=beta&t=7bsAdwAfk2NkV-E-E_zadO3t0-nvm8Uxpw5BAGCKUy4?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
 ---
