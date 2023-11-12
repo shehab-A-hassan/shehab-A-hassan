@@ -1,4 +1,4 @@
-<img width="400" src="https://media.licdn.com/dms/image/D4E03AQHibJ8NcQLclg/profile-displayphoto-shrink_400_400/0/1691793004154?e=1705536000&amp;v=beta&amp;t=xVfP9qVRVM_rogbsougsUnrvRah2Ahmuv23bIQPbfTU" height="400" alt="shehab Ali" id="ember599" class="evi-image ember-view profile-photo-edit__preview">
+<img width="1000" src="https://media.licdn.com/dms/image/D4E03AQHibJ8NcQLclg/profile-displayphoto-shrink_400_400/0/1691793004154?e=1705536000&amp;v=beta&amp;t=xVfP9qVRVM_rogbsougsUnrvRah2Ahmuv23bIQPbfTU" height="1000" alt="shehab Ali" id="ember599" class="evi-image ember-view profile-photo-edit__preview">
 <h2>Hey there! I'm  <b>shehab Ali</b>  
   
 </h2>
