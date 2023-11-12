@@ -13,23 +13,17 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I’m an innovative Software Engineer @ <b>Microsoft</b> in The Core User Experience of the Search Engine Microsoft Bing Team (<b>Bing</b>).
 
-💻 &nbsp;I’m an innovative Software Engineer with a good experience about 2 years in building and maintaining Full Stack Projects.
 
-💻 &nbsp;I've background includes graphics work and performance optimization and Proficient in Frontend Development as HTML, CSS , Bootstrap , JavaScript ,TypeScript , jQuery , Pug Js and React Js.
 
-💻 &nbsp;I'm a passionate about usability and possess working knowledge of Database, Os , Java , C++ and OOP ..
 
-🎓 &nbsp;I have been studied Computer Science and Mathematics at Menoufia University in Egypt.
 
-🌱 &nbsp;I'm on track for learning more about Software Development, Systems Design and Problem Solving Technique.
 
-✍️ &nbsp;Iin my free time, I pursue Reading Books and make Videos Tips and Tricks on my Youtube channel.
 
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
-✉️ &nbsp;You can shoot me an email at hamo.hashem2019@gmail.com ! I'll try to respond as soon as I can.
+🎓 &nbsp;I have been studied Computer Science  at Thebe Academy in Egypt.
+
+✉️ &nbsp;You can shoot me an email at shehabali241@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
