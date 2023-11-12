@@ -20,7 +20,7 @@
 
 
 
-💡 &nbsp; I’m an software Engineer | comptitive programmer | c++ Developer intern @CodSoft
+💡 &nbsp; I’m an innovative Software Engineer @ <b>comptitive programmer </b>  c++ Developer intern @CodSoft (<b></b>).
 
 🎓 &nbsp;I have been studied Computer Science  at Thebe Academy in Egypt.
 
