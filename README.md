@@ -9,7 +9,7 @@
 
 
 
-💡 &nbsp; I’m an innovative Software Engineer @ <b>comptitive programmer </b>  c++ Developer intern @CodSoft <b></b>.
+💡 &nbsp; I’m an innovative Software Engineer || <b>comptitive programmer </b> || c++ Developer intern @CodSoft <b></b>.
 
 🎓 &nbsp;I have been studied Computer Science  at Thebe Academy in Egypt.
 
