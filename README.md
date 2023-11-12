@@ -20,7 +20,7 @@
 
 
 
-
+💡 &nbsp; I’m an software Engineer | comptitive programmer | c++ Developer intern @CodSoft
 🎓 &nbsp;I have been studied Computer Science  at Thebe Academy in Egypt.
 
 ✉️ &nbsp;You can shoot me an email at shehabali241@gmail.com! I'll try to respond as soon as I can.
