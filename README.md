@@ -40,9 +40,11 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
 
 <a href="https://www.linkedin.com/in/mohamedhashem/">
 
+</p>
 ---
 
 Credits: [Shehab Ali](https://github.com/shehab-A-hassan)
