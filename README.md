@@ -5,8 +5,8 @@
 </br>
 </br>
 <h2>Hey there! I'm  <b>shehab Ali</b>  
-<a href="https://www.linkedin.com/in/shehabali241/"><img src="https://img.shields.io/badge/-Mohamed%20Hashem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/software_engineering_mh"><img src="https://img.shields.io/badge/-Software%20Engineering-09c?style=flat&logo=telegram"/></a>
+<a href="https://www.linkedin.com/in/shehabali241/">img sr<c="httpsg.sh://imields.io/badge/-Mohamed%20Hashem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
 </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
