@@ -1,22 +1,11 @@
-<div style="text-align:center;margin:auto">
-  <img  src="./Mohamed-Hashem.jpg" width="100%" height="700" >
-</div>
-</br>
-</br>
 
 <h2>Hey there! I'm  <b>shehab Ali</b>  
-
-
+  
 </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ## 👨🏻‍💻 &nbsp;About Me
-
-
-
-
-
 
 
 
